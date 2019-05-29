@@ -3,8 +3,6 @@ Kim-Soyang
 
 # 190522
 [삼성:간단한369게임](https://github.com/haileykim1/Algorithm-Problem/blob/master/190522/369%EA%B2%8C%EC%9E%84.cpp)
-# 190522
-[삼성_간단한369게임](https://github.com/haileykim1/Algorithm-Problem/blob/master/190522/369%EA%B2%8C%EC%9E%84.cpp)
 # 190529
 [삼성_2001_파리퇴치](https://github.com/haileykim1/Algorithm-Problem/blob/master/190529/%EC%82%BC%EC%84%B12001_%ED%8C%8C%EB%A6%AC%ED%87%B4%EC%B9%98.cpp)
 
